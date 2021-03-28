@@ -6,7 +6,7 @@ OpenPli - OpenEight - OpenBlackhole - OpenVix
 
 OpenAtv - Egami
 
-Pure2
+PurE2
 
 
 Includes MadMax Skin plugins for online updates & Weather Plugin

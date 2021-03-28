@@ -1,8 +1,15 @@
 # MadMax
-MadMax Impossible Skin compatible with OpenPli - OpenEight - OpenBlackhole - OpenVix
+MadMax Impossible Skin compatible with:
 
 
-Includes MadMax Skin plugins for online updates
+OpenPli - OpenEight - OpenBlackhole - OpenVix
+
+OpenAtv - Egami
+
+Pure2
+
+
+Includes MadMax Skin plugins for online updates & Weather Plugin
 
 
 Code by Madhouse

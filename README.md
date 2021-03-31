@@ -4,7 +4,9 @@ Compatible with:
 
 OpenPli - OpenEight - OpenBlackhole - OpenVix
 
-OpenAtv (python2/3) - Egami
+OpenAtv (python2/3)
+
+Egami
 
 PurE2
 
